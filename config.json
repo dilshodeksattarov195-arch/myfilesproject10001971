@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfpdate",
+        "uuid": 3265947,
+        "checksum": "rutf5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
